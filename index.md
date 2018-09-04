@@ -1,5 +1,5 @@
 
-#John Sommerfeld's first CS193 Lab
+# John Sommerfeld's first CS193 Lab
 Things I love about Purdue
 - Lawson
 - The campus
